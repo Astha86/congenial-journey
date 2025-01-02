@@ -16,7 +16,6 @@ public:
                 cnt++;
             }
         }
-
         return sum/cnt;
     }
 
